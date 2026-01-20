@@ -41,3 +41,33 @@ Random-Number-Guessing-Game/
 └── README.md       # Project documentation                                                                
 
 ----
+
+# ▶️ How to Play
+
+Open index.html in your browser
+
+Enter a number between 1 and 10
+
+Click the Guess button
+
+Check the feedback
+
+Win the trophy by guessing the correct number 🎉
+
+-----
+
+# 💡 Future Improvements
+
+Difficulty levels (Easy / Medium / Hard)
+
+Restart button
+
+Sound effects
+
+High score tracking
+
+-----
+
+# 👨‍💻 Author
+
+Nehal Gaherwar
