@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Random Number Guessing Game</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Guess the Number!</h1>
+        <p>I'm thinking of a number between 1 and 10. Can you guess it?</p>
+        <input type="number" id="guess-input" min="1" max="10" placeholder="Enter your guess">
+        <button id="guess-btn">Guess</button>
+        <p id="feedback"></p>
+        <p id="attempts">Attempts: 0</p>
+        <div id="trophy" class="hidden">
+            <h2>🎉 Congratulations! You won the trophy! 🏆</h2>
+            <img src="trophy.png" alt="Trophy" id="trophy-img">
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
