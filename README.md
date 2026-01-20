@@ -30,3 +30,14 @@ CSS3 – Styling
 JavaScript (ES6) – Game logic                                
 
 ----
+
+📁 Project Structure                                                  
+Random-Number-Guessing-Game/                                                                            
+│                                                                                                              
+├── index.html      # Main HTML file                                                                                                
+├── style.css       # Styling                                                                                                            
+├── script.js       # Game logic                                                                                                        
+├── trophy.png      # Trophy image                                                                                          
+└── README.md       # Project documentation                                                                
+
+----
