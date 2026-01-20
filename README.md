@@ -5,3 +5,18 @@ A simple and fun Random Number Guessing Game built using HTML, CSS, and JavaScri
 
 ----
 
+🚀 Features                                                                    
+
+🎲 Random number generation between 1 and 10                                                        
+
+⌨️ User input with validation                                                      
+
+🔁 Tracks number of attempts                                            
+
+📢 Instant feedback (correct / wrong guess)                                                  
+
+🏆 Trophy display on winning                                    
+
+🎨 Clean and simple UI                            
+
+----
