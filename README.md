@@ -20,3 +20,13 @@ A simple and fun Random Number Guessing Game built using HTML, CSS, and JavaScri
 🎨 Clean and simple UI                            
 
 ----
+
+🛠️ Technologies Used                                      
+
+HTML5 – Structure                                    
+
+CSS3 – Styling                                                
+
+JavaScript (ES6) – Game logic                                
+
+----
